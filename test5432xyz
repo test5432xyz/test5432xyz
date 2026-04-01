@@ -9,3 +9,19 @@ vless://2d72cf6d-03e4-4536-9540-6d7ad72d74f8@193.151.130.62:15011?type=tcp&encry
 vless://f5594261-dbc6-45b5-bdf9-a4ccdb03327d@193.151.130.62:15011?type=tcp&encryption=none&security=none#%40filembad
 
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+
+https://t.me/proxy?server=92.118.230.101&port=443&secret=ee927b396a36e38dacad77d5c2b3e0def77777772e7068696c6970732e636f6d
+
+https://t.me/proxy?server=138.201.54.122&port=443&secret=7gnbgVptgqMf2nb4ciMMaddwa2didWlsZC5vcmc
+
+vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&headerType=none&type=tcp#%40filembad
+
+vless://6474f608-e5aa-4f81-8a2b-600d10c257da@tamin.ir:80?path=%2Fir&security=none&encryption=none&host=m2.y101.ir&fp=chrome&type=ws#%40filembad
+
+vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security=none&encryption=none&headerType=none&type=tcp#%40filembad
+
+vless://6474f608-e5aa-4f81-8a2b-600d10c257da@varzesh3.com:80?path=%2Fir&security=none&encryption=none&host=m3.y101.ir&fp=chrome&type=ws#%40filembad
+
+vless://cde730ef-5d37-42dc-b59b-0c9b918d79b9@snapp.ir:80?type=ws&encryption=none&security=none&path=%2F&host=ar.liarashop.ir#%40filembad
+
+vless://d6c57794-7545-4054-b9d5-1a6959ff0636@shopcenter.lumavision.ir:8080?path=%2Fgraphql%3Fed%3D8080&security=none&encryption=none&host=shopcenter.lumavision.ir&type=ws#%40filembad
